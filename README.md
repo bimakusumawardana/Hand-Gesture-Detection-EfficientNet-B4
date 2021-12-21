@@ -12,4 +12,4 @@ Convolutional Neural Network with Efficient-Net B4 Architecture
 
 ## Experiment
 I do experiment about the effect of input size variation and Cyclical Learning Rate to model performance.
-I train in only 30 epochs, bcs I had reach convergent in only 30 epoch
+I train in only 30 epochs, bcs I had achieved convergent with that much epochs
